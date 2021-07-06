@@ -1,0 +1,6 @@
+[
+    {"courseId":1, "courseName":"core java","coursePrice":15000,"courseDescrption":"core java training","courseImg":"assets/images/java.png"},
+    {"courseId":2, "courseName":"spring framework","coursePrice":5000,"courseDescrption":"spring framework training","courseImg":"assets/images/spring.png"},
+    {"courseId":3, "courseName":"spring boot","coursePrice":6000,"courseDescrption":"spring boot training","courseImg":"assets/images/spring.png"},
+    {"courseId":4, "courseName":"microservices","coursePrice":10000,"courseDescrption":"microservices training","courseImg":"assets/images/ms.png"}
+]
